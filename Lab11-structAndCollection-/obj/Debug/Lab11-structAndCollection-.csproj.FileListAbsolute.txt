@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\obj\Debug\Lab11-structAndCollection-.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\obj\Debug\Lab11-structAndCollection-.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\bin\Debug\Lab11-structAndCollection-.exe.config
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\bin\Debug\Lab11-structAndCollection-.exe
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\bin\Debug\Lab11-structAndCollection-.pdb
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\obj\Debug\Lab11-structAndCollection-.exe
+C:\Users\Александр\source\repos\Lab11-structAndCollection-\Lab11-structAndCollection-\obj\Debug\Lab11-structAndCollection-.pdb
